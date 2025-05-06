@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @nakulranka
-- 👀 I’m interested in Data Science and AI.
-- 🌱 I’m currently learning Cybersecurity
-  
-
-<!---
-nakulranka/nakulranka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Nakul Ranka
+🎓 B.Tech CSAI @ JKLU | Ex-Visiting Student @ IIT Gandhinagar
+💻 Full-Stack Developer | Web Dev Enthusiast | Curious Coder
+🛠️ Exploring systems, networks, and building cool tech
+🚀 Learning by doing — one commit at a time
+🔭 Passionate about tech, astronomy, and meaningful code
