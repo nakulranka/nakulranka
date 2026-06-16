@@ -1,6 +1,6 @@
 👋 Hi, I'm Nakul Ranka
-🎓 B.Tech CSAI @ JKLU | Ex-Visiting Student @ IIT Gandhinagar
-💻 Full-Stack Developer | Web Dev Enthusiast | Curious Coder
-🛠️ Exploring systems, networks, and building cool tech
-🚀 Learning by doing — one commit at a time
-🔭 Passionate about tech, astronomy, and meaningful code
+🎓 B.Tech Computer Science & Artificial Intelligence @ JKLU
+🎓 Visiting Scholar @ IIT Gandhinagar & IIT Jammu
+💻 Full-Stack Developer | AI/ML Engineer
+🛠️ React, Next.js, Node.js, Python, PyTorch, Docker
+🚀 Interested in Computer Vision, LLMs, Systems, and Scalable Software
